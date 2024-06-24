@@ -1,0 +1,19 @@
+while(a>b) do
+    begin
+        if m>= n then a:=a+1e5
+        else
+            while k=h do x:=x+75;
+        m:=n+x*(m+y)
+        yyxyx
+    end
+#
+~
+
+#include<iostream>
+using namespace std;
+
+int main()
+{
+    cout<<"Hello world!"<<endl;
+    return 0;
+}
